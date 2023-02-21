@@ -5,4 +5,4 @@
 ***
 **Ключевые слова**: беспроводные сети, имитацинная модель, беспилотный летательный аппарат, вероятность покрытия пользователя, время затухания сигнала, стохастическая геометрия.
 ***
-Полное описание находится по сыылке: [documantation.pdf](https://github.com/Ivan-Menshov/Drone-patrols-with-base-station-functions-of-stationary-users-along-a-spiral-trajectory/blob/main/Построение%20имитационной%20патрулирования%20БПЛА%20по%20спиральной%20траетории.pdf)
+Полное описание математической модели находится по сcылке: [documantation.pdf](https://github.com/Ivan-Menshov/Drone-patrols-with-base-station-functions-of-stationary-users-along-a-spiral-trajectory/blob/main/Построение%20имитационной%20патрулирования%20БПЛА%20по%20спиральной%20траетории.pdf)
